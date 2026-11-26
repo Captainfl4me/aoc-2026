@@ -1,0 +1,3 @@
+[submodule "aoc-2026-inputs"]
+	path = aoc-2026-inputs
+	url = git@github.com:Captainfl4me/aoc-2026-inputs.git
